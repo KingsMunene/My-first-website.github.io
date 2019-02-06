@@ -1,0 +1,26 @@
+html {
+  background-color: #E3D5D2;
+}
+h1 {
+  color: #1E2F78;
+  text-align: center;
+}
+h2 {
+  color: #ffffff;
+  font-sytle: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+
+}
+ul {
+  line-height: 40px;
+}
+ol {
+  line-height: 30px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
